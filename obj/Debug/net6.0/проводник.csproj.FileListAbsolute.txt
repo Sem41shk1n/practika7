@@ -1,0 +1,15 @@
+D:\проекты визуал студио\проводник\bin\Debug\net6.0\проводник.exe
+D:\проекты визуал студио\проводник\bin\Debug\net6.0\проводник.deps.json
+D:\проекты визуал студио\проводник\bin\Debug\net6.0\проводник.runtimeconfig.json
+D:\проекты визуал студио\проводник\bin\Debug\net6.0\проводник.dll
+D:\проекты визуал студио\проводник\bin\Debug\net6.0\проводник.pdb
+D:\проекты визуал студио\проводник\obj\Debug\net6.0\проводник.csproj.AssemblyReference.cache
+D:\проекты визуал студио\проводник\obj\Debug\net6.0\проводник.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекты визуал студио\проводник\obj\Debug\net6.0\проводник.AssemblyInfoInputs.cache
+D:\проекты визуал студио\проводник\obj\Debug\net6.0\проводник.AssemblyInfo.cs
+D:\проекты визуал студио\проводник\obj\Debug\net6.0\проводник.csproj.CoreCompileInputs.cache
+D:\проекты визуал студио\проводник\obj\Debug\net6.0\проводник.dll
+D:\проекты визуал студио\проводник\obj\Debug\net6.0\refint\проводник.dll
+D:\проекты визуал студио\проводник\obj\Debug\net6.0\проводник.pdb
+D:\проекты визуал студио\проводник\obj\Debug\net6.0\проводник.genruntimeconfig.cache
+D:\проекты визуал студио\проводник\obj\Debug\net6.0\ref\проводник.dll
